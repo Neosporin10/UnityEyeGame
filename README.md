@@ -7,4 +7,4 @@ If you dont clone/download, you can click on each file seperately and there is a
 
 Once downloaded extract all files then double click on eyegame.exe
 
-email me and include pictures of your problems... mcritzer10@gmail.com
+If you have issues/problems email me and include pictures of your problems... mcritzer10@gmail.com
